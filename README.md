@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing 2023 sales data by region, product category, customer type, and payment method.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](imagesdashboard.png)
 
 ## Business Questions
 - How much revenue and volume did we generate overall?
